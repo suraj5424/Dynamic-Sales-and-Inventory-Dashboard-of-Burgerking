@@ -1,4 +1,12 @@
 # Dynamic Sales and Inventory Dashboard
+![Dynamic Sales and Inventory Dashboard](https://github.com/suraj5424/Dynamic-Sales-and-Inventory-Dashboard-of-Burgerking/blob/main/Burger%20sale%20%20dash%20board-1.jpg)
+## Ingedients  consumption  page
+
+![Dynamic Sales and Inventory Dashboard](https://github.com/suraj5424/Dynamic-Sales-and-Inventory-Dashboard-of-Burgerking/blob/main/Burger%20sale%20%20dash%20board-2.jpg)
+
+**When you will hover on any month you can see below information.**
+![Hover page](https://github.com/suraj5424/Dynamic-Sales-and-Inventory-Dashboard-of-Burgerking/blob/main/Burger%20sale%20%20dash%20board-3.jpg)
+
 
 This repository contains a **fully dynamic dashboard** built for visualizing **synthetically generated data**. The dashboard provides an **interactive interface** for tracking **sales** and **ingredient consumption** in **real time**. Below are the **key features** and **functionalities**:
 
