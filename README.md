@@ -29,6 +29,11 @@ This repository contains a **fully dynamic dashboard** built for visualizing **s
 
 The dataset used for this dashboard is **synthetically generated** and can be accessed via the following link: [Synthetic Dataset Repository](https://github.com/suraj5424/Burger-sales-data-and-report-generator)
 
+
+## **Note:** 
+
+- The data presented in this repository, including names, sales figures, ingredients, etc., is completely fictional and is used solely for **educational purposes**. It has no relation to any real **Burger King** company or entity. Any imagery or references to **Burger King** are used under **fair use** for educational and illustrative purposes only.
+
 ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.txt) file for details.
